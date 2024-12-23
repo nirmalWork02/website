@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nirmalworkmail2/project2:latest
+        image: nirmalworkmail2/project:latest
         ports:
         - containerPort: 80
